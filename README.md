@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/5zWD9iQ.png" width="100%" alt="banner" />
+<img src="https://i.imgur.com/5zWD9iQ.png" width="60%" alt="banner" />
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 **Programmer** | og fn modder (game asset replacement)
 
-I'm not currently doing anything!
+Need to talk to me? DM me on Discord.
 
 </div>
 
